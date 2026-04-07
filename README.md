@@ -1,4 +1,4 @@
-# SwitchesTasks — Portfolio Showcase
+﻿# SwitchesTasks — Portfolio Showcase
 
 > A task management platform where Git activity drives task lifecycle automatically.
 > Push a branch → task moves to `IN_PROGRESS`. Merge a PR → `COMPLETED`. No manual updates needed.
@@ -215,6 +215,4 @@ ngrok is included for local webhook testing with GitHub.
 
 ---
 
-*Source code is private. Available for review upon request.*
-#   s w i t c h e s - t a s k s - p o r t f o l i o  
- 
+*Source code is private. Available for review upon request.*`n
